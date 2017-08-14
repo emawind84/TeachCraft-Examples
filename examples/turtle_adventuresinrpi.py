@@ -9,7 +9,7 @@ from mcpi import minecraft
 from mcpi import block
 
 # Connect to minecraft server 127.0.0.1 as player 'steve'
-mc = minecraft.Minecraft.create(address="127.0.0.1", name="steve")
+mc = minecraft.Minecraft.create(address="127.0.0.1", name="Surfernight")
 
 # get players position
 pos = mc.player.getPos()

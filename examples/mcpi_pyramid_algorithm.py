@@ -5,7 +5,7 @@ sys.path.append(os.path.join(os.path.dirname(os.path.realpath(__file__)), os.par
 import mcpi.minecraft as minecraft
 
 # Connect to minecraft server 127.0.0.1 as player 'steve'
-mc = minecraft.Minecraft.create(address="127.0.0.1", name="steve")
+mc = minecraft.Minecraft.create(address="127.0.0.1", name="Surfernight")
 
 block_id = 57
 
